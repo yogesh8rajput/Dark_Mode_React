@@ -30,9 +30,11 @@ function App() {
       </button>
 
       <div className="content">
-        <h1>React Dark Mode Example</h1>
+        <h1 className='text-4xl'>React Dark Mode Example</h1>
         <p>Click the button to toggle between light and dark modes.</p>
       </div>
+
+      <h5 className='text-9xl'>helllo i am h5</h5>
     </div>
   );
 }
