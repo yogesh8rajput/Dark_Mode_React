@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>React Dark Mode Example</h1>
+      <h1>React Dark and Light  Mode Example</h1>
       <h1>Hello EveryOne welcome to DarkMode</h1>
       <button onClick={toggleDarkMode}>
         Switch to {isDarkMode ? 'Light' : 'Dark'} Mode
